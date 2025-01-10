@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 st statusTypes = [ 'online'];
-leconst statusMessages = ["Listening to your requests";
+leconst statusMessages = ["Listening to your requests]";
 cont currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
