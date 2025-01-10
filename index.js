@@ -37,7 +37,6 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-st statusTypes = [ 'online'];
 leconst statusMessages = ["Listening to your requests]";
 cont currentStatusIndex = 0;
 let currentTypeIndex = 0;
